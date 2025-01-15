@@ -4,7 +4,7 @@ import { PresidentCard } from "../Components/PresidentCard";
 
 export const Contact = () => {
   return (
-    <main className="h-[120vh] w-full flex flex-col gap-8  items-center justify-center text-center">
+    <main className="h-[125vh] w-full flex flex-col gap-8  items-center justify-center text-center">
       <h1 className="text-6xl">
         <strong>Contact Us</strong>
       </h1>

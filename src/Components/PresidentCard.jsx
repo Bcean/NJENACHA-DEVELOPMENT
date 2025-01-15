@@ -6,7 +6,7 @@ export const PresidentCard = () => {
       <h1 className="text-3xl">President General</h1>
       <h3 className="font-light">Mr Akafu Magnus</h3>
       <h3 className="font-light">
-        <strong>Tel:</strong>
+        <strong>Tel: </strong>
         2377783390
       </h3>
     </div>
